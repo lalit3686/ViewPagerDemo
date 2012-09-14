@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">ViewPagerDemo</string>
+    <string name="title_activity_main">ViewPagerActivity</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="hello_world">hello_world</string>
+
+</resources>
